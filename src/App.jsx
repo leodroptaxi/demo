@@ -21,7 +21,7 @@ function App() {
     <div>
   <BrowserRouter>
   <Routes>
-    <Route path='/' element={<Website/>}/>
+    <Route path='/0' element={<Website/>}/>
     <Route path='/1' element={<Website1/>}/>
     <Route path='/2' element={<Website2/>}/>
     <Route path='/3' element={<Website3/>}/>
